@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pablo",
+      "email": "pablo@pablo.com",
+      "telefono": "8112345678",
+      "empresa": "CCJ",
+      "id": 1
+    },
+    {
+      "nombre": "César",
+      "email": "cesar@cesar.com",
+      "telefono": "8112345234",
+      "empresa": "Accenture",
+      "id": 2
+    }
+  ]
+}
